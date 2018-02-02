@@ -6,4 +6,4 @@ This is the file associated with the V School <a href="https://coursework.vschoo
 Build an invoicing website to calculate subtotals and grand total of pests exterminated.
 
 ## Screenshot
-![Invoice](invoice.png) 
+![Invoice](invoice2.png) 
